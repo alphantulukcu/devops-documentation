@@ -1,5 +1,3 @@
-![alt text](screenshots/obss.png) 
-
 # DevOps Internship Program: Documentation
 
     Alphan Tulukcu
